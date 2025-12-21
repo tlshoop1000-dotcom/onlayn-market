@@ -1,0 +1,8 @@
+{
+  "name": "NovaMarket - Premium Online Store",
+  "description": "A high-performance e-commerce platform featuring AI-powered shopping assistance, real-time cart management, and a modern shopping experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
